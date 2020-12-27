@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AiYu\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj": {}
+    "C:\\Users\\SQZ777-PCIe\\RiderProjects\\shoppingcart\\ShoppingCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AiYu\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj": {
+    "C:\\Users\\SQZ777-PCIe\\RiderProjects\\shoppingcart\\ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AiYu\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+        "projectUniqueName": "C:\\Users\\SQZ777-PCIe\\RiderProjects\\shoppingcart\\ShoppingCart.csproj",
         "projectName": "ShoppingCart",
-        "projectPath": "C:\\Users\\AiYu\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
-        "packagesPath": "C:\\Users\\AiYu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AiYu\\source\\repos\\ShoppingCart\\ShoppingCart\\obj\\",
+        "projectPath": "C:\\Users\\SQZ777-PCIe\\RiderProjects\\shoppingcart\\ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\SQZ777-PCIe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SQZ777-PCIe\\RiderProjects\\shoppingcart\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\AiYu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SQZ777-PCIe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "scrutor": {
               "target": "Package",
@@ -66,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
