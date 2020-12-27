@@ -1,7 +1,8 @@
-namespace ShoppingCart.HelloMicroservices
+using System;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ShoppingCart
 {
- using System;
- using Microsoft.AspNetCore.Mvc;
  public class CurrentDateTimeController : Controller
  {
  [HttpGet("/")]

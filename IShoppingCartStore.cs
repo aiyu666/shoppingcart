@@ -7,6 +7,6 @@ namespace ShoppingCart
 {
     public interface IShoppingCartStore
     {
-        public object Get(int userId);
+        public ShoppingCartStoreModel Get();
     }
 }
